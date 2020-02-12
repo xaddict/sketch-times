@@ -1,6 +1,6 @@
 {
 	"name": "Sketch-Times",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "A DataSupplier plugin to get Times",
 	"engines": {
 		"sketch": ">=3.0"
